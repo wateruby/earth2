@@ -96,6 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
+# 設定主題為next
 theme: next
 
 # Deployment
